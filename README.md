@@ -1,7 +1,7 @@
 # mi-smart-projector-2-pro-ir-wakeup
 
 Xiaomi MI Smart Projector 2 Pro - sleep / wake up with Broadlink RM 
-(or any infrared transmitter). 
+(or any infrared transmitter eg. LG TV remote controller). 
 
 I developed custom keyboard with 2 button (sleep / "enter" key to wake up) over USB. 
 
