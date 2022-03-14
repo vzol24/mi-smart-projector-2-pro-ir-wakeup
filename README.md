@@ -5,6 +5,9 @@ Xiaomi MI Smart Projector 2 Pro - sleep / wake up with Broadlink RM
 
 I developed custom keyboard with 2 button (sleep / "enter" key to wake up) over USB. 
 
+<img src="/stl/ir-remote-box" width="128"/>
+
+
 Required parts:
 - Arduino Pro Micro
 - Infrared receiver
